@@ -1949,8 +1949,8 @@
     "zipCode": "78244",
     "county": "Bexar",
     "countyFips": "029",
-    "latitude": 29.474535,
-    "longitude": -98.351155,
+    "latitude": 29.474546,
+    "longitude": -98.351172,
     "propertyType": "Single Family",
     "bedrooms": 3,
     "bathrooms": 2,
@@ -1978,17 +1978,35 @@
       "unitCount": 1
     },
     "taxAssessments": {
+      "2015": {
+        "year": 2015,
+        "value": 104930,
+        "land": 17200,
+        "improvements": 87730
+      },
+      "2016": {
+        "year": 2016,
+        "value": 114010,
+        "land": 17200,
+        "improvements": 96810
+      },
+      "2017": {
+        "year": 2017,
+        "value": 118540,
+        "land": 17200,
+        "improvements": 101340
+      },
       "2018": {
         "year": 2018,
         "value": 130394,
-        "land": 17200,
-        "improvements": 118740
+        "land": null,
+        "improvements": null
       },
       "2019": {
         "year": 2019,
         "value": 143433,
-        "land": 21510,
-        "improvements": 122960
+        "land": null,
+        "improvements": null
       },
       "2020": {
         "year": 2020,
@@ -2004,39 +2022,63 @@
       },
       "2022": {
         "year": 2022,
-        "value": 198560,
-        "land": 41300,
-        "improvements": 157260
+        "value": 183843,
+        "land": null,
+        "improvements": null
       },
       "2023": {
         "year": 2023,
-        "value": 225490,
-        "land": 49530,
-        "improvements": 175960
+        "value": 202227,
+        "land": null,
+        "improvements": null
       },
       "2024": {
         "year": 2024,
-        "value": 222760,
-        "land": 49530,
-        "improvements": 173230
+        "value": 222450,
+        "land": null,
+        "improvements": null
       }
     },
     "propertyTaxes": {
+      "2015": {
+        "year": 2015,
+        "total": 2389
+      },
+      "2016": {
+        "year": 2016,
+        "total": 2646
+      },
+      "2017": {
+        "year": 2017,
+        "total": 2692
+      },
+      "2018": {
+        "year": 2018,
+        "total": 2979
+      },
       "2019": {
         "year": 2019,
-        "total": 1835
+        "total": 3160
+      },
+      "2020": {
+        "year": 2020,
+        "total": 3229
       },
       "2021": {
         "year": 2021,
-        "total": 1929
+        "total": 3533
       },
       "2022": {
         "year": 2022,
-        "total": 1939
+        "total": 3794
       },
       "2023": {
         "year": 2023,
-        "total": 986
+        "total": 3797
+      },
+      "2024": {
+        "year": 2024,
+        "total": 4177
       }
     },
     "owner": {

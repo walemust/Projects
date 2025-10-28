@@ -1,0 +1,51 @@
+id,address,city,state,state_fips,zip_code,county,county_fips,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built
+"375-399-Fremont-St,-San-Francisco,-CA-94105","375-399 Fremont St, San Francisco, CA 94105",San Francisco,CA,06,94105,San Francisco,075,37.78734,-122.3922,Apartment,,,,2013.0
+"899-Pine-St,-San-Francisco,-CA-94108","899 Pine St, San Francisco, CA 94108",San Francisco,CA,06,94108,San Francisco,075,37.790644,-122.410216,Apartment,0.0,1.0,405.0,1962.0
+"788-Harrison-St,-San-Francisco,-CA-94107","788 Harrison St, San Francisco, CA 94107",San Francisco,CA,06,94107,San Francisco,075,37.781144,-122.399613,Apartment,1.0,1.0,746.0,1999.0
+"1600-15th-St,-San-Francisco,-CA-94103","1600 15th St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.76699,-122.42048,Apartment,0.0,1.0,523.0,2013.0
+"30-Dore-St,-San-Francisco,-CA-94103","30 Dore St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.77395,-122.41345,Apartment,1.0,1.0,414.0,2007.0
+"1601-Mariposa-St,-San-Francisco,-CA-94107","1601 Mariposa St, San Francisco, CA 94107",San Francisco,CA,06,94107,San Francisco,075,37.763236,-122.399761,Apartment,3.0,2.0,,2020.0
+"8-Locksley-Ave,-San-Francisco,-CA-94122","8 Locksley Ave, San Francisco, CA 94122",San Francisco,CA,06,94122,San Francisco,075,37.75946,-122.46242,Apartment,0.0,1.0,332.0,1961.0
+"2000-Post-St,-San-Francisco,-CA-94115","2000 Post St, San Francisco, CA 94115",San Francisco,CA,06,94115,San Francisco,075,37.785435,-122.436142,Apartment,0.0,1.0,475.0,1987.0
+"2175-Market-St,-San-Francisco,-CA-94114","2175 Market St, San Francisco, CA 94114",San Francisco,CA,06,94114,San Francisco,075,37.766431,-122.429863,Single Family,1.0,1.0,,1978.0
+"325-Octavia-St,-San-Francisco,-CA-94102","325 Octavia St, San Francisco, CA 94102",San Francisco,CA,06,94102,San Francisco,075,37.77494,-122.42516,Apartment,0.0,1.0,449.0,2015.0
+"855-Brannan-St,-San-Francisco,-CA-94103","855 Brannan St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.77202,-122.40377,Apartment,0.0,1.0,466.0,2016.0
+"1699-Market-St,-San-Francisco,-CA-94103","1699 Market St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.77232,-122.421928,Apartment,1.0,1.0,650.0,2019.0
+"1700-California-St,-San-Francisco,-CA-94109","1700 California St, San Francisco, CA 94109",San Francisco,CA,06,94109,San Francisco,075,37.79057,-122.42292,Apartment,2.0,1.0,1055.0,1985.0
+"1168-Folsom-St,-San-Francisco,-CA-94103","1168 Folsom St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.77577,-122.40959,Apartment,2.0,1.0,,2005.0
+"388-Beale-St,-San-Francisco,-CA-94105","388 Beale St, San Francisco, CA 94105",San Francisco,CA,06,94105,San Francisco,075,37.78754,-122.39156,Apartment,1.0,1.0,858.0,1999.0
+"3-Bayside-Village-Pl,-San-Francisco,-CA-94107","3 Bayside Village Pl, San Francisco, CA 94107",San Francisco,CA,06,94107,San Francisco,075,37.78513,-122.3899,Apartment,0.0,1.0,478.0,1988.0
+"1045-Mission-St,-San-Francisco,-CA-94103","1045 Mission St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.78001,-122.40962,Apartment,,1.0,,2001.0
+"1475-Fillmore-St,-San-Francisco,-CA-94115","1475 Fillmore St, San Francisco, CA 94115",San Francisco,CA,06,94115,San Francisco,075,37.782658,-122.43318,Apartment,0.0,1.0,480.0,1990.0
+"1395-22nd-St,-San-Francisco,-CA-94107","1395 22nd St, San Francisco, CA 94107",San Francisco,CA,06,94107,San Francisco,075,37.756607,-122.394165,Apartment,1.0,1.0,531.0,2019.0
+"500-Folsom-St,-San-Francisco,-CA-94105","500 Folsom St, San Francisco, CA 94105",San Francisco,CA,06,94105,San Francisco,075,37.787205,-122.395103,Apartment,0.0,1.0,476.0,2019.0
+"2112-Market-St,-San-Francisco,-CA-94114","2112 Market St, San Francisco, CA 94114",San Francisco,CA,06,94114,San Francisco,075,37.767513,-122.429436,Apartment,2.0,2.0,952.0,2019.0
+"215-Ashbury-St,-Apt-3,-San-Francisco,-CA-94117","215 Ashbury St, Apt 3, San Francisco, CA 94117",San Francisco,CA,06,94117,San Francisco,075,37.7735,-122.447649,Apartment,1.0,1.0,700.0,
+"550-Jessie-St,-Apt-318,-San-Francisco,-CA-94103","550 Jessie St, Apt 318, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.780979,-122.410141,Apartment,1.0,1.0,,
+"701-China-Basin-St,-San-Francisco,-CA-94158","701 China Basin St, San Francisco, CA 94158",San Francisco,CA,06,94158,San Francisco,075,37.771366,-122.393738,Apartment,1.0,1.0,1100.0,2014.0
+"100-Van-Ness-Ave,-San-Francisco,-CA-94102","100 Van Ness Ave, San Francisco, CA 94102",San Francisco,CA,06,94102,San Francisco,075,37.77666,-122.41928,Apartment,,,,2015.0
+"460-Davis-Ct,-San-Francisco,-CA-94111","460 Davis Ct, San Francisco, CA 94111",San Francisco,CA,06,94111,San Francisco,075,37.7976,-122.39674,Apartment,1.0,1.0,686.0,1967.0
+"515-John-Muir-Dr,-San-Francisco,-CA-94132","515 John Muir Dr, San Francisco, CA 94132",San Francisco,CA,06,94132,San Francisco,075,37.7162,-122.49717,Apartment,,,,1973.0
+"1-Saint-Francis-Pl,-San-Francisco,-CA-94107","1 Saint Francis Pl, San Francisco, CA 94107",San Francisco,CA,06,94107,San Francisco,075,37.78388,-122.39773,Apartment,0.0,1.0,533.0,1987.0
+"16-Turk-St,-San-Francisco,-CA-94102","16 Turk St, San Francisco, CA 94102",San Francisco,CA,06,94102,San Francisco,075,37.783499,-122.409393,Apartment,1.0,1.0,,2019.0
+"911-Bryant-St,-San-Francisco,-CA-94103","911 Bryant St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.774006,-122.4048,Apartment,0.0,1.0,394.0,2019.0
+"55-Ninth-St,-San-Francisco,-CA-94103","55 Ninth St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.777097,-122.415102,Apartment,,,,2014.0
+"550-Jessie-St,-Ste-201,-San-Francisco,-CA-94103","550 Jessie St, Ste 201, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.780831,-122.410107,Condo,,1.0,,
+"2133-Stockton-St,-San-Francisco,-CA-94133","2133 Stockton St, San Francisco, CA 94133",San Francisco,CA,06,94133,San Francisco,075,37.805678,-122.410679,Apartment,1.0,1.0,,
+"737-Post-St,-San-Francisco,-CA-94109","737 Post St, San Francisco, CA 94109",San Francisco,CA,06,94109,San Francisco,075,37.787106,-122.413978,Apartment,0.0,1.0,326.0,1988.0
+"530-Brannan-St,-San-Francisco,-CA-94107","530 Brannan St, San Francisco, CA 94107",San Francisco,CA,06,94107,San Francisco,075,37.778062,-122.397452,Apartment,1.0,1.0,605.0,2004.0
+"88-Howard-St,-San-Francisco,-CA-94105","88 Howard St, San Francisco, CA 94105",San Francisco,CA,06,94105,San Francisco,075,37.792266,-122.392848,Apartment,0.0,1.0,527.0,1989.0
+"680-Mission-St,-San-Francisco,-CA-94105","680 Mission St, San Francisco, CA 94105",San Francisco,CA,06,94105,San Francisco,075,37.786761,-122.401975,Apartment,1.0,1.0,,2001.0
+"8-10th-St,-San-Francisco,-CA-94103","8 10th St, San Francisco, CA 94103",San Francisco,CA,06,94103,San Francisco,075,37.776235,-122.417395,Apartment,0.0,1.0,476.0,2014.0
+"355-Berry-St,-San-Francisco,-CA-94158","355 Berry St, San Francisco, CA 94158",San Francisco,CA,06,94158,San Francisco,075,37.772398,-122.397006,Apartment,1.0,1.0,535.0,2007.0
+"1995-Chestnut-St,-San-Francisco,-CA-94123","1995 Chestnut St, San Francisco, CA 94123",San Francisco,CA,06,94123,San Francisco,075,37.80067,-122.43593,Apartment,1.0,1.0,,1964.0
+"185-Channel-St,-San-Francisco,-CA-94158","185 Channel St, San Francisco, CA 94158",San Francisco,CA,06,94158,San Francisco,075,37.77396,-122.39065,Apartment,0.0,1.0,491.0,2013.0
+"255-King-St,-San-Francisco,-CA-94107","255 King St, San Francisco, CA 94107",San Francisco,CA,06,94107,San Francisco,075,37.776462,-122.393024,Apartment,0.0,1.0,533.0,2003.0
+"1010-16th-St,-San-Francisco,-CA-94107","1010 16th St, San Francisco, CA 94107",San Francisco,CA,06,94107,San Francisco,075,37.76708,-122.39694,Apartment,1.0,1.0,538.0,2016.0
+"5880-3rd-St,-San-Francisco,-CA-94124","5880 3rd St, San Francisco, CA 94124",San Francisco,CA,06,94124,San Francisco,075,37.72477,-122.40029,Apartment,1.0,1.0,572.0,2016.0
+"181-Sanchez-St,-San-Francisco,-CA-94114","181 Sanchez St, San Francisco, CA 94114",San Francisco,CA,06,94114,San Francisco,075,37.76652,-122.4308,Apartment,,,,2016.0
+"150-Van-Ness-Ave,-San-Francisco,-CA-94102","150 Van Ness Ave, San Francisco, CA 94102",San Francisco,CA,06,94102,San Francisco,075,37.77712,-122.418911,Apartment,1.0,1.0,529.0,2018.0
+"200-Buchanan-St,-San-Francisco,-CA-94102","200 Buchanan St, San Francisco, CA 94102",San Francisco,CA,06,94102,San Francisco,075,37.77191,-122.42622,Apartment,0.0,1.0,417.0,2018.0
+"1801-Wedemeyer-St,-San-Francisco,-CA-94129","1801 Wedemeyer St, San Francisco, CA 94129",San Francisco,CA,06,94129,San Francisco,075,37.78893,-122.47462,Apartment,1.0,1.0,450.0,2010.0
+"1333-Gough-St,-San-Francisco,-CA-94109","1333 Gough St, San Francisco, CA 94109",San Francisco,CA,06,94109,San Francisco,075,37.785734,-122.425605,Apartment,1.0,1.0,773.0,1966.0
+"1200-Sacramento-St,-San-Francisco,-CA-94108","1200 Sacramento St, San Francisco, CA 94108",San Francisco,CA,06,94108,San Francisco,075,37.79266,-122.41301,Apartment,1.0,1.0,465.0,1930.0
